@@ -55,7 +55,11 @@ git clone https://github.com/your-username/focus-rl-assistant
 ```
 2. Install dependencies
 ```bash
-pip install stable-baselines3 gym matplotlib
+pip install psutil numpy yake stable-baselines3 transformers torch gymnasium inputimeout
+```
+or
+```bash
+pip3 install psutil numpy yake stable-baselines3 transformers torch gymnasium inputimeout
 ```
 4. Run 
 ```bash
