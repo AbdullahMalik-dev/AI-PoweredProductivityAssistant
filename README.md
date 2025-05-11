@@ -10,7 +10,7 @@ This is a student-built productivity assistant that uses **Reinforcement Learnin
 ## What It Does
 
 - Monitors a simulated “focus level”
-- Learns when to **work**, **take a short break**, or **take a long break**
+- Learns when to **Keep Studying**, **Take a Break**, or **Adjust Study Strategy**
 - Uses the PPO algorithm (from Stable-Baselines3) to train a model that balances productivity and rest
 - Plots rewards, actions, and focus levels for visualization
 
