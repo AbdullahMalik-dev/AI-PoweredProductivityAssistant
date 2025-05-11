@@ -3,8 +3,6 @@ import time
 key_count = 0
 mouse_click_count = 0
 def Picks() -> None:
-    
-
     def on_press(key):
         global key_count
         key_count += 1
@@ -62,9 +60,6 @@ def attentionTypingRate(inTime):
         rate.append(rateCalc)
         if len(rate) == 3:
             rate.pop(0)
-        # print(i)
-        
-    
     return rate
 
 def isActive():
