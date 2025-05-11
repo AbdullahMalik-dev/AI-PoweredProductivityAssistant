@@ -49,13 +49,15 @@ Top Apps Used: [('chrome.exe', 18), ('discord.exe', 12), ('code.exe', 9)]
 ```
 ## How to Run
 
-```bash
 # 1. Clone the repo
+```bash
 git clone https://github.com/your-username/focus-rl-assistant
-
+```
 # 2. Install dependencies
+```bash
 pip install stable-baselines3 gym matplotlib
-
+```
 # 4. Run 
+```bash
 python main.py
 ```
