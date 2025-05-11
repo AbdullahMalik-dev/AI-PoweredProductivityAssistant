@@ -1,4 +1,4 @@
-# ProductivityApp
+# AI-Powered Productivity Assistant
 An AI-powered productivity assistant using reinforcement learning to optimize study breaks.
 
 ⚠️ I'm a student and still learning. This project is a work-in-progress.
