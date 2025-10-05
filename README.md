@@ -47,21 +47,3 @@ Key Concepts in this Text:
 AI Decision: Take a Break
 Top Apps Used: [('chrome.exe', 18), ('discord.exe', 12), ('code.exe', 9)]
 ```
-## How to Run
-
-1. Clone the repo
-```bash
-git clone https://github.com/your-username/focus-rl-assistant
-```
-2. Install dependencies
-```bash
-pip install psutil numpy yake stable-baselines3 transformers torch gymnasium inputimeout
-```
-or
-```bash
-pip3 install psutil numpy yake stable-baselines3 transformers torch gymnasium inputimeout
-```
-4. Run 
-```bash
-python main.py
-```
